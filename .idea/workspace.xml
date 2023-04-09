@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="574a09e1-787e-463c-9d61-0783cdfada39" name="变更" comment="4.9号下午学习IO流">
-      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/outputstream_/FileOutputStream01.java" afterDir="false" />
+    <list default="true" id="574a09e1-787e-463c-9d61-0783cdfada39" name="变更" comment="4.9号晚上学习韩顺平IO流13集">
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/BufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/FileReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/Reader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/StringReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/outputstream_/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/reader_/FileReader02_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/reader_/FileReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/writer_/FileWrite_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chang/IO/outputstream_/FileOutputStream01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chang/IO/outputstream_/FileOutputStream01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,26 +36,83 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OB7GNSjkRi7Lol0iOwjvyAiMuX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/学习笔记/Java/code/JavaIO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.FileInputStream">
-    <configuration name="Directoryexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chang.IO.Directoryexer" />
+  <component name="RunManager" selected="应用程序.test">
+    <configuration name="FileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chang.IO.outputstream_.FileCopy" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chang.IO.outputstream_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReader02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chang.IO.reader_.FileReader02_" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chang.IO.reader_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReader_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chang.IO.reader_.FileReader_" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chang.IO.reader_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWrite_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chang.IO.writer_.FileWrite_" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chang.IO.writer_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chang.IO.test" />
       <module name="JavaIO" />
       <extension name="coverage">
         <pattern>
@@ -54,63 +120,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chang.IO.FileCreate" />
-      <module name="JavaIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chang.IO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chang.IO.inputStream.FileInputStream" />
-      <module name="JavaIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chang.IO.inputStream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fileformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chang.IO.Fileformation" />
-      <module name="JavaIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chang.IO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaIO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FileInputStream" />
-        <item itemvalue="应用程序.Directoryexer" />
-        <item itemvalue="应用程序.Fileformation" />
-        <item itemvalue="应用程序.FileCreate" />
-        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.FileCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +139,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681022025843</updated>
-      <workItem from="1681022027582" duration="9814000" />
+      <workItem from="1681022027582" duration="22318000" />
+      <workItem from="1681056496257" duration="327000" />
+      <workItem from="1681056838234" duration="319000" />
+      <workItem from="1681057171326" duration="2423000" />
     </task>
     <task id="LOCAL-00001" summary="4.9号下午学习IO流">
       <created>1681030708800</created>
@@ -145,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681030930225</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4.9号下午学习IO流">
+      <created>1681040835351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681040835351</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +191,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4.9号下午学习IO流" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.9号下午学习IO流" />
+    <MESSAGE value="4.9号晚上学习韩顺平IO流13集" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.9号晚上学习韩顺平IO流13集" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
