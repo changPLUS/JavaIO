@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="574a09e1-787e-463c-9d61-0783cdfada39" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/Directoryexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/FileCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/Fileformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/inputStream/FileInputStream.java" afterDir="false" />
+    <list default="true" id="574a09e1-787e-463c-9d61-0783cdfada39" name="变更" comment="4.9号下午学习IO流">
+      <change beforePath="$PROJECT_DIR$/src/com/chang/IO/inputStream/FileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chang/IO/inputStream/FileInputStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,11 +121,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681022025843</updated>
-      <workItem from="1681022027582" duration="7948000" />
+      <workItem from="1681022027582" duration="8220000" />
     </task>
+    <task id="LOCAL-00001" summary="4.9号下午学习IO流">
+      <created>1681030708800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681030708800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4.9号下午学习IO流" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.9号下午学习IO流" />
   </component>
 </project>

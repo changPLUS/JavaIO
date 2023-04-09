@@ -7,6 +7,7 @@ import java.io.IOException;
 public class FileInputStream {
     public static void main(String[] args) {
         read2();
+        read();
     }
     public static void read(){
         String ReadFile = "e:\\new2.txt";
