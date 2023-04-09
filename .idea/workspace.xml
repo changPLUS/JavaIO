@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574a09e1-787e-463c-9d61-0783cdfada39" name="变更" comment="4.9号下午学习IO流">
-      <change beforePath="$PROJECT_DIR$/src/com/chang/IO/inputStream/FileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chang/IO/inputStream/FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chang/IO/outputstream_/FileOutputStream01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681022025843</updated>
-      <workItem from="1681022027582" duration="8220000" />
+      <workItem from="1681022027582" duration="9814000" />
     </task>
     <task id="LOCAL-00001" summary="4.9号下午学习IO流">
       <created>1681030708800</created>
@@ -130,11 +131,36 @@
       <option name="project" value="LOCAL" />
       <updated>1681030708800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4.9号下午学习IO流">
+      <created>1681030838539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681030838539</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4.9号下午学习IO流">
+      <created>1681030930225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681030930225</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4.9号下午学习IO流" />
